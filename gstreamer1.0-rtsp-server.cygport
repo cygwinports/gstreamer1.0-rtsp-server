@@ -1,7 +1,7 @@
 inherit gstreamer
 
 NAME="gstreamer1.0-rtsp-server"
-VERSION=1.12.3
+VERSION=1.12.4
 RELEASE=1
 CATEGORY="Libs"
 SUMMARY="GStreamer RTSP server library"
